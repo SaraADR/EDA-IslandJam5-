@@ -9,9 +9,9 @@ Artista:            Laura Lozano Martín
 Game Designer:      Ana Terrés Fidalgo
 
 Sonido:             Joah Pons (Flucht)                         
-
                     Álvaro David Macias Gil
-                    
+           
+           
 CONTACTO:   
 
 sara.arrdr@gmail.com 
