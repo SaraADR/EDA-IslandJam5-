@@ -1,0 +1,16 @@
+sceneSetups:
+- path: "Assets/Scenes/Men\xFA.unity"
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/IslandJamV.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Cards.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Controls.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Fase 1.unity
+  isLoaded: 1
+  isActive: 1
